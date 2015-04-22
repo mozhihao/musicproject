@@ -1,0 +1,4 @@
+#Fri Apr 17 14:33:26 CST 2015
+eclipse.preferences.version=1
+validator.Checked=WebRoot/js/libs/jquery-1.11.1.min.js,WebRoot/js/reg/formValidatorRegex.js,WebRoot/musictype.jsp,WebRoot/js/editor/froala_editor.min.js,WebRoot/js/bg,WebRoot/userinfo.jsp,WebRoot/js/froala_editor.min.js,WebRoot/bg/bgaddablum.jsp,WebRoot/upuserphone.jsp,WebRoot/bg/bguploadmusic2.jsp
+validator.Unchecked=

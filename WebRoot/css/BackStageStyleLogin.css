@@ -1,0 +1,33 @@
+body { font-family:Verdana; font-size:14px; margin:0;background: #6cf; width: 100%}
+
+/** login*/
+#box {
+    background: url(../images/box.png) no-repeat;
+    height:310px;
+    padding-top: 60px;
+    padding-left: 50px;
+    margin-top: 10%;
+    margin-left: 37.5%;
+}
+#box div {
+    width: 300px;
+}
+
+.input_c {
+    border: 0px;
+    background: transparent;
+    padding: 10px 0 10px 0;
+    width: 280px;
+    text-indent: 40px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+#usn {
+    background-image: url(../images/usn.png);
+}
+#pwd {
+    background-image: url(../images/pwd.png);
+}
+
+/*login end*/
